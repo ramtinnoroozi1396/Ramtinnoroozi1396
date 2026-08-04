@@ -134,8 +134,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-      "server": "104.19.48.205",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+      "server": "104.17.119.83",
       "server_port": 2053,
       "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
       "transport": {
@@ -157,9 +157,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-      "server": "104.26.12.33",
-      "server_port": 2053,
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+      "server": "104.17.168.148",
+      "server_port": 443,
       "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
       "transport": {
         "path": "/",
@@ -180,77 +180,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-      "server": "162.159.33.190",
-      "server_port": 2096,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-      "server": "172.66.3.117",
-      "server_port": 2096,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-      "server": "104.17.181.36",
-      "server_port": 2087,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-      "server": "104.16.251.132",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+      "server": "104.19.48.103",
       "server_port": 8443,
       "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
       "transport": {
@@ -272,77 +203,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-      "server": "104.16.255.126",
-      "server_port": 2053,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-      "server": "8.35.211.91",
-      "server_port": 2083,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-      "server": "104.19.150.204",
-      "server_port": 2053,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-      "server": "172.67.66.244",
+      "tag": "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+      "server": "173.245.58.238",
       "server_port": 8443,
       "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
       "transport": {
@@ -364,8 +226,123 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-      "server": "8.35.211.24",
+      "tag": "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+      "server": "8.35.211.218",
+      "server_port": 443,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+      "server": "104.18.33.188",
+      "server_port": 8443,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+      "server": "104.19.149.146",
+      "server_port": 2087,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+      "server": "104.17.57.254",
+      "server_port": 2053,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+      "server": "104.17.30.30",
+      "server_port": 8443,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+      "server": "104.17.220.201",
       "server_port": 2096,
       "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
       "transport": {
@@ -387,8 +364,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-      "server": "104.17.223.62",
+      "tag": "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+      "server": "8.39.125.15",
       "server_port": 2053,
       "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
       "transport": {
@@ -410,78 +387,101 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-      "server": "104.17.121.142",
-      "server_port": 2083,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-      "server": "198.41.209.68",
-      "server_port": 2087,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-      "server": "104.18.33.213",
-      "server_port": 2087,
-      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]",
-      "server": "104.16.151.211",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+      "server": "198.41.223.9",
       "server_port": 2053,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+      "server": "172.66.2.220",
+      "server_port": 2053,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+      "server": "108.162.198.171",
+      "server_port": 2096,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+      "server": "104.19.150.6",
+      "server_port": 2087,
+      "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "lunar-field-3629.ramtinnoroozi1396.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "lunar-field-3629.ramtinnoroozi1396.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]",
+      "server": "104.18.33.58",
+      "server_port": 2087,
       "uuid": "351c639d-2b37-407e-8fa9-2c1f3f0cdce7",
       "transport": {
         "path": "/",
@@ -511,22 +511,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا @irnova_proxy lunar-field-3629.ramtinnoroozi1396.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]"
       ]
     },
     {
@@ -534,22 +534,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا @irnova_proxy lunar-field-3629.ramtinnoroozi1396.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -560,22 +560,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا @irnova_proxy lunar-field-3629.ramtinnoroozi1396.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]"
       ]
     },
     {
@@ -583,22 +583,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا @irnova_proxy lunar-field-3629.ramtinnoroozi1396.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]"
       ]
     },
     {
@@ -634,22 +634,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova_proxy lunar-field-3629.ramtinnoroozi1396.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]"
       ]
     },
     {
@@ -665,22 +665,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova_proxy lunar-field-3629.ramtinnoroozi1396.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]"
       ]
     },
     {
@@ -691,22 +691,22 @@
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
         "DIRECT",
         "سرویس رایگان نوا @irnova_proxy lunar-field-3629.ramtinnoroozi1396.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.48.205:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.26.12.33:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.33.190:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.66.3.117:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.181.36:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.251.132:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.255.126:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.91:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.150.204:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.66.244:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 8.35.211.24:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.223.62:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.121.142:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 198.41.209.68:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.33.213:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.151.211:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.17.119.83:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.168.148:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.48.103:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 173.245.58.238:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.218:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.149.146:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.57.254:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.30:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.220.201:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.15:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.223.9:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.220:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.171:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.150.6:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.58:2087 [VLESS]"
       ]
     },
     {
